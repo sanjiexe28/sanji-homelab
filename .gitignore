@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Proxmox backups
+*.vma.zst
+*.vma
+*.tar
+
+# ISOs
+*.iso
