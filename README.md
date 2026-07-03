@@ -2,6 +2,8 @@
 
 > Enterprise Systems & Network Laboratory
 
+> 🚧 Work in Progress
+
 ## 📖 About
 
 Sanji Homelab is my personal infrastructure project designed to improve my skills as a future **System & Network Administrator**.
