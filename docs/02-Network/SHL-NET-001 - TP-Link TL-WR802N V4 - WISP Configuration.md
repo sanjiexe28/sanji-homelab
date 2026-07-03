@@ -68,12 +68,12 @@ The TP-Link TL-WR802N V4 is configured in **WISP Mode** to connect to the home W
                         │
                      Wireless
                         │
-               NRO01 (WR802N V4)
+               NRO-01 (WR802N V4)
                   WISP Mode
                         │
                     Ethernet
                         │
-               SW01 (TP-Link Omada)
+               SW-01 (TP-Link Omada)
            ┌────────┬────────┬────────┐
            │        │        │
         FW-01   SRV-HV01  SRV-PI01
