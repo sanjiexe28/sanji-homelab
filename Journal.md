@@ -18,3 +18,26 @@ SHL-NET-001
 
 **Status:**
 Completed ✅
+
+---
+
+## 04-07-2026
+
+### SHL-NET-002 – TP-Link Omada ES205G Initial Configuration
+
+**Category:** Network
+
+**Duration:** 20 min
+
+**Objective:**
+Configure the TP-Link Omada ES205G managed switch as the core Layer 2 switch of the Sanji Homelab infrastructure.
+
+**Result:**
+Configuration completed successfully.
+The switch was renamed to **SW-01**, assigned a static management IP address (`192.168.0.2`), and integrated into the Sanji Homelab network.
+
+**Documentation:**
+SHL-NET-002
+
+**Status:**
+Completed ✅
