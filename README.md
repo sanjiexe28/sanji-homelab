@@ -66,7 +66,7 @@ scripts/
 | ID | Document | Status |
 |----|----------|--------|
 | SHL-NET-001 | TP-Link WR802N Configuration | ✅ |
-| SHL-NET-002 | TP-Link Omada Switch Configuration | ⏳ |
+| SHL-NET-002 | TP-Link Omada Switch Configuration | ✅ |
 | SHL-PVE-001 | Proxmox Installation | ⏳ |
 | SHL-AD-001 | Active Directory Deployment | ⏳ |
 
